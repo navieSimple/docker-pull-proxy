@@ -1,2 +1,5 @@
+postgres:15-alpine crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/postgres:15-alpine
+redis:6-alpine crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/redis:6-alpine
+semitechnologies/weaviate:1.19.0 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/weaviate:1.19.0
+langgenius/dify-sandbox:0.2.9 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/dify-sandbox:0.2.9
 ubuntu/squid:latest crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/squid:latest
-
