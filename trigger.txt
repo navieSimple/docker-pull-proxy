@@ -1,17 +1,3 @@
-langgenius/dify-api:0.8.3 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/dify-api:0.8.3
-langgenius/dify-web:0.8.3 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/dify-web:0.8.3 
-certbot/certbot crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/certbot
-nginx:latest crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/nginx:latest
-langgenius/qdrant:v1.7.3 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/qdrant:v1.7.3
-pgvector/pgvector:pg16 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/pgvector:pg16
-tensorchord/pgvecto-rs:pg16-v0.3.0 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/pgvecto-rs:pg16-v0.3.0
-ghcr.io/chroma-core/chroma:0.5.1 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/chroma:0.5.1
-container-registry.oracle.com/database/free:latest crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/free:latest
-quay.io/coreos/etcd:v3.5.5 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/etcd:v3.5.5
-minio/minio:RELEASE.2023-03-20T20-16-18Z crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/minio:RELEASE.2023-03-20T20-16-18Z
-milvusdb/milvus:v2.3.1 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/milvus:v2.3.1
-opensearchproject/opensearch:latest crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/opensearch:latest
-opensearchproject/opensearch-dashboards:latest crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/opensearch-dashboards:latest
 myscale/myscaledb:1.6.4 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/myscaledb:1.6.4
 docker.elastic.co/elasticsearch/elasticsearch:8.15.1 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/elasticsearch:8.15.1
 docker.elastic.co/kibana/kibana:8.15.1 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/kibana:8.15.1
