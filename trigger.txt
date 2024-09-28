@@ -1,4 +1,1 @@
-myscale/myscaledb:1.6.4 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/myscaledb:1.6.4
-docker.elastic.co/elasticsearch/elasticsearch:8.15.1 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/elasticsearch:8.15.1
-docker.elastic.co/kibana/kibana:8.15.1 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/kibana:8.15.1
 downloads.unstructured.io/unstructured-io/unstructured-api:latest crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/unstructured-api:latest
