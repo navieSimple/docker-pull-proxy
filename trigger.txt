@@ -1,1 +1,1 @@
-python:3.10-slim-bookworm crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/python:3.10-slim-bookworm
+node:20.11-alpine3.19 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/node:20.11-alpine3.19
