@@ -1,1 +1,2 @@
 langgenius/dify-api:0.15.2 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/langgenius/dify-api:0.15.2
+langgenius/dify-web:0.15.2 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/dify-web:0.15.2
