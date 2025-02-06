@@ -1,5 +1,1 @@
-langgenius/dify-api:0.15.2 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/dify-api:0.15.2
-langgenius/dify-sandbox:0.2.10 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/dify-sandbox:0.2.10
-pingcap/tidb:v8.4.0 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/tidb:v8.4.0
-quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/oceanbase-ce:4.3.3.0-100000142024101215
-milvusdb/milvus:v2.5.0-beta crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/milvus:v2.5.0-beta
+ghcr.io/chroma-core/chroma:0.5.20 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/chroma:0.5.20
