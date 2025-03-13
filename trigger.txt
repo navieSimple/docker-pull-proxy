@@ -1,1 +1,3 @@
-ghcr.io/chroma-core/chroma:0.5.20 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/chroma:0.5.20
+langgenius/dify-api:1.0.1 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/dify-api:1.0.1
+langgenius/dify-web:1.0.1 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/dify-web:1.0.1
+langgenius/dify-plugin-daemon:0.0.4-local crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/dify-plugin-daemon:0.0.4-local
