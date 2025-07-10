@@ -1,1 +1,4 @@
-infiniflow/infinity:v0.6.0-dev3 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/infinity:v0.6.0-dev3
+langgenius/dify-api:1.5.1 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/dify-api:1.5.1
+langgenius/dify-web:1.5.1 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/dify-web:1.5.1
+langgenius/dify-sandbox:0.2.12 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.1.3-local crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/dify-plugin-daemon:0.1.3-local
