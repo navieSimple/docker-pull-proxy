@@ -1,1 +1,1 @@
-dataelement/bisheng-backend:v2.0.0 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/bisheng-backend:v2.0.0
+dataelement/bisheng-frontend:v2.0.0 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/bisheng-frontend:v2.0.0
