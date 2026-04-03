@@ -1,1 +1,1 @@
-docker.getoutline.com/outlinewiki/outline:1.6.1 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/outline:1.6.1
+minio/minio:RELEASE.2025-09-07T16-13-09Z crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/minio:RELEASE.2025-09-07T16-13-09Z
