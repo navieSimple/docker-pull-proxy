@@ -1,1 +1,1 @@
-ghcr.io/requarks/wiki:2.5.312 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/wiki:2.5.312
+manticoresearch/manticore:25.0.0 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/manticore:25.0.0
