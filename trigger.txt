@@ -1,1 +1,1 @@
-ghcr.io/toeverything/affine:stable crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/affine:stable 
+star7th/showdoc:v3.8.2 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/showdoc:v3.8.2
