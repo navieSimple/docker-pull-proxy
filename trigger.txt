@@ -1,3 +1,3 @@
-agentmemory/memory-core:2.0.0 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/memory-core:2.0.0
-agentmemory/memory-hub:2.0.0 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/memory-hub:2.0.0
-agentmemory/memory-proxy:2.0.0 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/memory-proxy:2.0.0
+agentmemory/memory-core:latest crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/memory-core:latest
+agentmemory/memory-hub:latest crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/memory-hub:latest
+agentmemory/memory-proxy:latest crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/memory-proxy:latest
