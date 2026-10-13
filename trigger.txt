@@ -1,5 +1,4 @@
-docker/dockerfile:1.9 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/dockerfile:1.9
-rust:1.91.1-trixie crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/rust:1.91.1-trixie
-ghcr.io/astral-sh/uv:python3.13-trixie-slim crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/uv:python3.13-trixie-slim
-python:3.13-slim-trixie crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/python:3.13-slim-trixie
-node:24-trixie-slim crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/node:24-trixie-slim
+pgvector/pgvector:pg17 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/pgvector:pg17
+ghcr.io/multica-ai/multica-backend:0.6.2 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/multica-backend:0.6.2
+ghcr.io/multica-ai/multica-web:0.6.2 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/multica-web:0.6.2
+
