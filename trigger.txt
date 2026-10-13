@@ -1,4 +1,3 @@
-pgvector/pgvector:pg17 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/pgvector:pg17
-ghcr.io/multica-ai/multica-backend:0.6.2 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/multica-backend:0.6.2
-ghcr.io/multica-ai/multica-web:0.6.2 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/dify_demo/multica-web:0.6.2
+ghcr.io/multica-ai/multica-backend:v0.6.2 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/hz_multica/multica-backend:v0.6.2
+ghcr.io/multica-ai/multica-web:v0.6.2 crpi-jza1m7f2bdbwog4t.cn-chengdu.personal.cr.aliyuncs.com/hz_multica/multica-web:v0.6.2
 
